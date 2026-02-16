@@ -1,5 +1,5 @@
 # Kratuxil Official - robots.txt
-# https://Kratuxil-official.org
+# https://kratuxilofficial.com
 
 User-agent: Googlebot
 Allow: /
@@ -89,7 +89,7 @@ Disallow: /*.json$
 Disallow: /assets/*.map$
 
 # Host
-Host: https://Kratuxil-official.org
+Host: https://kratuxilofficial.com
 
 # Sitemaps
 Sitemap: https://kratuxilofficial.comsitemap.xml
